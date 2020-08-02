@@ -1,4 +1,3 @@
-# Face synthesis with GANs in PyTorch (and Keras)
 **Nishant Prabhu, 30 July 2020**
 
 In this tutorial, we will build and train a simple Generative Adversarial Network (GAN) to synthesize faces of people. I'll begin with a brief introduction on GAN's: their architecture and the amazing idea that makes them work. Then, we'll look at some code to get this to work for us. I'll leave you with some ideas which can help you make them produce better results.
@@ -25,6 +24,7 @@ Consider the example below.
         <img src="https://i.imgur.com/cyGAQST.jpg" alt="dog" width="400" />
     </div>
 </div>
+<br>
 <br>
 
 Let's say the features you used to tell this man from that dog are the edges of the image. While you would successfully be able to differentiate between the two, will you (assume you have never seen humans or mirrors before) be able to reconstruct the image of the man or the dog using only those features? Chances are you cannot. This is because the image's edges aren't enough to describe the man or the dog in sufficient detail. Such features are called **discriminative features**.
@@ -697,7 +697,7 @@ To make it easy to visualize, I'll show all the three images and the result side
         <img src="https://i.imgur.com/9YtVrWA.png" alt="person 3" width="200" />
     </div>
     <div class="column" style="float: left; width: 40%; padding: 0px;">
-        <img src="https://i.imgur.com/UGVsIll.png" alt="result" width="200" />
+        <img src="https://i.imgur.com/UGVsIll.png" alt="result" width="150" />
     </div>
 </div>
 <br>
