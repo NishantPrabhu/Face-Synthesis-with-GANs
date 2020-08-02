@@ -702,7 +702,7 @@ To make it easy to visualize, I'll show all the three images and the result side
         <img src="https://i.imgur.com/9YtVrWA.png" alt="person 3" width="200" />
     </div>
     <div class="column" style="float: left; width: 40%; padding: 0px;">
-        <img src="https://i.imgur.com/UGVsIll.png" alt="result" width="150" />
+        <img src="https://i.imgur.com/UGVsIll.png" alt="result" width="180" />
     </div>
 </div>
 <br>
