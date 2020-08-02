@@ -9,7 +9,12 @@ This project uses a subset (11000 images) of the Flickr Faces dataset. The image
 
 ### System specifications
 I'm using the following version of these Python modules.
-
+```
+1. tensorflow-gpu         :   2.2.0
+2. torch                  :   1.5.1
+3. mtcnn                  :   0.1.0
+4. Python                 :   3.6.9
+```
 
 ## Generative vs. Discriminative models
 
