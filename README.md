@@ -26,7 +26,7 @@ Consider the example below.
         <img src="https://i.imgur.com/BeJaJUD.jpg" alt="man" width="370" />
     </div>
     <div class="column" style="float: left; width: 50%; padding: 0px;">
-        <img src="https://i.imgur.com/cyGAQST.jpg" alt="dog" width="400" />
+        <img src="https://i.imgur.com/cyGAQST.jpg" alt="dog" width="420" />
     </div>
 </div>
 <br>
